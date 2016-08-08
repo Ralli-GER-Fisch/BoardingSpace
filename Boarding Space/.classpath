@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/EclipseLibs/slick2d/lib/ibxm.jar" sourcepath="E:/EclipseLibs/slick2d/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/E:/EclipseLibs/slick2d/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/EclipseLibs/slick2d/lib/jinput.jar" sourcepath="E:/EclipseLibs/slick2d/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/E:/EclipseLibs/slick2d/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/EclipseLibs/slick2d/lib/jnlp.jar" sourcepath="E:/EclipseLibs/slick2d/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/E:/EclipseLibs/slick2d/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/EclipseLibs/slick2d/lib/jogg-0.0.7.jar" sourcepath="E:/EclipseLibs/slick2d/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/E:/EclipseLibs/slick2d/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/EclipseLibs/slick2d/lib/jorbis-0.0.15.jar" sourcepath="E:/EclipseLibs/slick2d/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/E:/EclipseLibs/slick2d/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/EclipseLibs/slick2d/lib/lwjgl_util.jar" sourcepath="E:/EclipseLibs/slick2d/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/E:/EclipseLibs/slick2d/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/EclipseLibs/slick2d/lib/lwjgl_util_applet.jar" sourcepath="E:/EclipseLibs/slick2d/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/E:/EclipseLibs/slick2d/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/EclipseLibs/slick2d/lib/natives-linux.jar" sourcepath="E:/EclipseLibs/slick2d/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/E:/EclipseLibs/slick2d/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/EclipseLibs/slick2d/lib/natives-mac.jar" sourcepath="E:/EclipseLibs/slick2d/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/E:/EclipseLibs/slick2d/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/EclipseLibs/slick2d/lib/natives-windows.jar" sourcepath="E:/EclipseLibs/slick2d/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/E:/EclipseLibs/slick2d/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/EclipseLibs/slick2d/lib/slick.jar" sourcepath="E:/EclipseLibs/slick2d/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/E:/EclipseLibs/slick2d/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/EclipseLibs/slick2d/lib/slick-examples.jar" sourcepath="E:/EclipseLibs/slick2d/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/E:/EclipseLibs/slick2d/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/EclipseLibs/slick2d/lib/tinylinepp.jar" sourcepath="E:/EclipseLibs/slick2d/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/E:/EclipseLibs/slick2d/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/EclipseLibs/noise-master/flow-noise-1.0.0.jar" sourcepath="E:/EclipseLibs/noise-master/src">
+		<attributes>
+			<attribute name="javadoc_location" value="https://flowpowered.com/noise"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/EclipseLibs/lwjgl-3/jar/lwjgl.jar" sourcepath="E:/EclipseLibs/lwjgl-3/src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/E:/EclipseLibs/lwjgl-3/doc/javadoc.zip!/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="E:/EclipseLibs/lwjgl-3/native"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
